@@ -1,1 +1,11 @@
-toto je moj prvy subor
+taketo su comandy 
+cd /c 
+cd GIT ja/
+ls            // pre nakuknutie 
+git config --global user.name "anyname.."
+git config --global user.email mic@gmail.com
+cd TestGit/
+git add nejaky.txt
+git status
+git commit -m "nejaky commit" nejaky.txt
+git push -u origin master
